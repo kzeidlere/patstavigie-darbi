@@ -10,3 +10,5 @@ new_santimi = santimi % 100
 
 print("Jaunie dālderi:", new_dalderi)
 print("Jaunie santīmi:", new_santimi)
+
+print('Izmaiņas')
